@@ -7,3 +7,4 @@
   + [x] [chapter03](https://github.com/songjinzhong/NodeJSLearning/tree/master/chapter03)- 异步 I/O
   + [x] [chapter04](https://github.com/songjinzhong/NodeJSLearning/tree/master/chapter04)- 异步编程
   + [x] [chapter05](https://github.com/songjinzhong/NodeJSLearning/tree/master/chapter05)- 内存控制
+  + [x] [chapter06](https://github.com/songjinzhong/NodeJSLearning/tree/master/chapter06)- 理解 Buffer
