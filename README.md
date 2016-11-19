@@ -9,3 +9,4 @@
   + [x] [chapter05](https://github.com/songjinzhong/NodeJSLearning/tree/master/chapter05)- 内存控制
   + [x] [chapter06](https://github.com/songjinzhong/NodeJSLearning/tree/master/chapter06)- 理解 Buffer
   + [x] [chapter07](https://github.com/songjinzhong/NodeJSLearning/tree/master/chapter07)- 网络编程
+  + [x] [chapter08](https://github.com/songjinzhong/NodeJSLearning/tree/master/chapter08)- 构建 web 应用
