@@ -12,3 +12,4 @@
   + [x] [chapter08](https://github.com/songjinzhong/NodeJSLearning/tree/master/chapter08)- 构建 web 应用
   + [x] [chapter09](https://github.com/songjinzhong/NodeJSLearning/tree/master/chapter09)- 玩转进程
   + [x] [chapter10](https://github.com/songjinzhong/NodeJSLearning/tree/master/chapter10)- 测试
+  + [x] [chapter11](https://github.com/songjinzhong/NodeJSLearning/tree/master/chapter11)- 产品化
